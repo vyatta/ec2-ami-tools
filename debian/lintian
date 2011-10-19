@@ -1,0 +1,2 @@
+ec2-ami-tools: file-in-unusual-dir
+ec2-ami-tools: dir-or-file-in-opt

@@ -1,0 +1,18 @@
+Source: ec2-ami-tools
+Section: contrib/net
+Priority: extra
+Maintainer: Vyatta Package Maintainers <maintainers@vyatta.com>
+Build-Depends: debhelper (>= 5), autotools-dev
+Standards-Version: 3.7.2
+
+Package: ec2-ami-tools
+Architecture: any
+Depends:  curl,
+	  libopenssl-ruby,
+	  ruby
+Pre-Depends: 
+Suggests: 
+Replaces: 
+Description: Amazon AMI tools
+ Tools for managing an Amazon AMI
+
