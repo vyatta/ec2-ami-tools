@@ -1,3 +1,9 @@
+ec2-ami-tools (0.2) unstable; urgency=low
+
+  * Remove unnecessary dependencies.
+
+ -- Bob Gilligan <gilligan@vyatta.com>  Wed, 07 Dec 2011 17:05:53 -0800
+
 ec2-ami-tools (0.1) unstable; urgency=low
 
   * Initial Release.
