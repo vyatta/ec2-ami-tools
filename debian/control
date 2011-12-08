@@ -7,9 +7,7 @@ Standards-Version: 3.7.2
 
 Package: ec2-ami-tools
 Architecture: any
-Depends:  curl,
-	  libopenssl-ruby,
-	  ruby
+Depends: ruby
 Pre-Depends: 
 Suggests: 
 Replaces: 
